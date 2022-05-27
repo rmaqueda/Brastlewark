@@ -1,8 +1,8 @@
 # Brastlewark
 
-- List the gnomes from network request
-- Filter by name
-- Filter by hair color
+- List gnomes from network request
+- Filter by gnome name 
+- Filter by gnome hair color
 
 - Gnome detail (not finished)  
 
