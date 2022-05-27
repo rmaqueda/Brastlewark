@@ -96,6 +96,7 @@
 		119FB4192840C41A00E03379 /* URLSession+Stub.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "URLSession+Stub.swift"; sourceTree = "<group>"; };
 		119FB41B2840C43B00E03379 /* HTTPStubProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HTTPStubProtocol.swift; sourceTree = "<group>"; };
 		119FB4232840C64800E03379 /* GnomeListViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GnomeListViewModelTests.swift; sourceTree = "<group>"; };
+		11A655D22840DADB0044ABD1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,6 +134,7 @@
 		119FB3AB283CE7AA00E03379 = {
 			isa = PBXGroup;
 			children = (
+				11A655D22840DADB0044ABD1 /* README.md */,
 				119FB3B6283CE7AA00E03379 /* Brastlewark */,
 				119FB3C7283CE7AB00E03379 /* BrastlewarkTests */,
 				119FB4102840C3F400E03379 /* BrastlewarkIntegrationTests */,
