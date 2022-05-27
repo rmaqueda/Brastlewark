@@ -15,7 +15,8 @@
 ## Test targets
 
 - BrastlewarkTests: Basic unit tests.
+Tests using HTTPStubProtocol to provide STUB network responses globally, then check how the ViewModel behaves.
 
-- BrastlewarkIntegrationTests: Integration tests using HTTPStubProtocol to provide STUB network responses globally, then check how the ViewModel behaves.
+- BrastlewarkIntegrationTests: Real network request integration tests.
 
 - BrastlewarkUITests: not complete but ready to develop UI tests with XCTest UI test.
